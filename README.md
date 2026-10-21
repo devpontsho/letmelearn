@@ -29,7 +29,7 @@ There is a $\color{#6286da}{\text{stats}}$ block on the right in the image above
 
 <br>
 
-> **Note:** The learn can view the word and its meaning etc during the learning/reviwing process of they have forgotten how to write the word or what it means
+> **Note:** The learn can view the word's information during the learning/reviwing process, if they have forgotten how to write the word or what it means
 
 [![alt text](/assets/06.png)](https://vimeo.com/1237882033?share=copy&fl=sv&fe=ci)
 
