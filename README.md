@@ -56,4 +56,5 @@ __Learn__
 
 
 [<img src="/assets/vimeo.png" alt="Description" width="4%" />](https://vimeo.com/pontshomaseko)
+
 [<img src="/assets/linkedin.png" alt="Description" width="5%" />](www.linkedin.com/in/masekopontsho)
