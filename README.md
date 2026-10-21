@@ -2,13 +2,13 @@
 
 <img src="/assets/icon.png" alt="Description" width="10%" /> $\color{#c45181}{\text{Let Me Learn}}$
 
-I recently created a language learning app in Swift for macOs and plans to alter the UI to support iOS and maybe visionOS. The underlining architecture is written to work in all those platforms just the UI is not laid out to support those different form factors.
+I recently created a language learning app in Swift for macOs and plans to alter the UI to support iOS and maybe visionOS. The underlining architecture is written to work for all those platforms, its just the UI is not laid out to support those different form factors.
 
-I always wanted to learn Japanese since I was a kid but never gotten to do it. And tried  a bunch of language learning platforms and really liked wanikani's approach to learning through spaced repetition, but money and only offer Japanese.
+I always wanted to learn Japanese since I was a kid but never gotten to do it. I have tried  a bunch of language learning platforms throughout the years and really liked Wanikani's approach to learning through spaced repetition, but money and only offer Japanese.
 
-> **Note:** The reason there is not code in the repo is I am not sure yet whether I want to have this as an opensource project or not.
+> **Note:** The reason there is not code in the repo is I am not sure yet whether I want to have this as an open-source project or not.
 
-![alt text](/assets/07.png)
+[![alt text](/assets/07.png)](https://vimeo.com/pontshomaseko)
 
 ## $\color{#60c451}{\text{Features}}$
 
@@ -16,7 +16,7 @@ __Mastery Levels__
 
 There is a $\color{#6286da}{\text{stats}}$ block on the right, there are few mastery levels, words the learner has reviewed x amount of times [the learner can change this amount] in the settings see the image
 
-![](/assets/02.png)
+[![alt text](/assets/02.png)](https://vimeo.com/1237932061?fl=ip&fe=ec)
 
 | Mastery Level | Description |
 | :-------------: | :-----------: |
@@ -34,7 +34,7 @@ There is a $\color{#6286da}{\text{stats}}$ block on the right, there are few mas
 
 > **Note:** The learn can view the word and its meaning etc during the learning/reviwing process of they have forgotten how to write the word or what it means
 
-![](/assets/06.png)
+[![alt text](/assets/06.png)](https://vimeo.com/1237882033?share=copy&fl=sv&fe=ci)
 
 __Review__
 + Based what you previously have learned and that word is yet to be mastered. if you look at the image, the learner will be quized on knowing how to write the word and the meaning. The review will include words from other matery levels after a certain amount of rotation so they do not forget the words.
@@ -43,7 +43,7 @@ __Learn__
 + Based on the setting, the learner will be continuously be fed a batch of words to learn. The learner can pause and continue review until they are comfortable to continue learning. Other blocks like $\color{#da6274}{\text{sentence learning}}$ allow the learner to learn words that are not in the queue to be learned.
 
 
-[![alt text](/assets/04.png)](https://vimeo.com/manage/videos/1237883194)
+[![alt text](/assets/04.png)](https://vimeo.com/1237883194?share=copy&fl=sv&fe=ci)
 
 <div style="background: #b3af3d; border-radius: 6px; padding: 10px;">
     Practice
@@ -59,7 +59,7 @@ __Learn__
 + Normally the learner in other language learning apps is fed words to learn as they progress, but in this case they use can continue learning the words as they go or they can type sentences or just words they would like to learn.  For
 
 
-[![alt text](/assets/06.png)](https://vimeo.com/manage/videos/1237879948)
+[![alt text](/assets/06.png)](https://vimeo.com/1237879948?share=copy&fl=sv&fe=ci)
 
 
 
