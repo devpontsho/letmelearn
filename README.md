@@ -2,7 +2,7 @@
 
 <img src="/assets/icon.png" alt="Description" width="10%" /> $\color{#c45181}{\text{Let Me Learn}}$
 
-I recently created a language learning app in Swift for macOs and plans to alter the UI to support iOS and maybe visionOS. The underlining architecture is written to work for all those platforms, its just the UI is not laid out to support those different form factors.
+I recently created a language learning app in Swift for macOs and plans to alter the UI to support iOS and maybe visionOS. The underlining architecture is written to work for all those platforms.
 
 I always wanted to learn Japanese since I was a kid but never gotten to do it. I have tried  a bunch of language learning platforms throughout the years and really liked Wanikani's approach to learning through spaced repetition, but money and only offer Japanese.
 
