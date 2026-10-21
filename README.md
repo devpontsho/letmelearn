@@ -10,13 +10,11 @@ I always wanted to learn Japanese since I was a kid but never gotten to do it. I
 
 [![alt text](/assets/07.png)](https://vimeo.com/pontshomaseko)
 
-## $\color{#60c451}{\text{Features}}$
+# $\color{#60c451}{\text{Features}}$
 
 __Mastery Levels__
 
-There is a $\color{#6286da}{\text{stats}}$ block on the right, there are few mastery levels, words the learner has reviewed x amount of times [the learner can change this amount] in the settings see the image
-
-[![alt text](/assets/02.png)](https://vimeo.com/1237932061?fl=ip&fe=ec)
+There is a $\color{#6286da}{\text{stats}}$ block on the right in the image above, there are few mastery levels, words the learner has reviewed x amount of times [the learner can change this amount] in the settings see the image bellow.
 
 | Mastery Level | Description |
 | :-------------: | :-----------: |
@@ -25,10 +23,9 @@ There is a $\color{#6286da}{\text{stats}}$ block on the right, there are few mas
 | Master | These words will be add occutionally to the review circle after x amount of review circles but less than level guru, the learner is considered proficient with them |
 | Grand Master | These words will not be added to the review circle. |
 
+[![alt text](/assets/02.png)](https://vimeo.com/1237932061?fl=ip&fe=ec)
 
-<div style="background: #568d62; border-radius: 10px; padding: 10px;">
-    Learn and Review
-</div>
+### $\color{#568d62}{\text{Learn and Review}}$
 
 <br>
 
@@ -45,22 +42,17 @@ __Learn__
 
 [![alt text](/assets/04.png)](https://vimeo.com/1237883194?share=copy&fl=sv&fe=ci)
 
-<div style="background: #b3af3d; border-radius: 6px; padding: 10px;">
-    Practice
-</div>
+### $\color{#b3af3d}{\text{Practice}}$
 
 + Allows the learning to practice every word that currently in review, but the learner can go to any other blocks and practice words from those block except the $\color{#568d62}{\text{learn and review}}$.
 
 
-<div style="background: #da6274; border-radius: 6px; padding: 10px;">
-    Sentence Learning
-</div>
+### $\color{#da6274}{\text{Sentence Learning}}$
 
 + Normally the learner in other language learning apps is fed words to learn as they progress, but in this case they use can continue learning the words as they go or they can type sentences or just words they would like to learn.  For
 
 
 [![alt text](/assets/06.png)](https://vimeo.com/1237879948?share=copy&fl=sv&fe=ci)
-
 
 
 [<img src="/assets/vimeo.png" alt="Description" width="4%" />](https://vimeo.com/pontshomaseko) [<img src="/assets/linkedin.png" alt="Description" width="5%" />](www.linkedin.com/in/masekopontsho)
