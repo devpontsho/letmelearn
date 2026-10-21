@@ -1,6 +1,6 @@
 
 
-<img src="/assets/icon.png" alt="Description" width="4%" /> $\color{#c45181}{\text{Let Me Learn}}$
+<img src="/assets/icon.png" alt="Description" width="10%" /> $\color{#c45181}{\text{Let Me Learn}}$
 
 I recently created a language learning app in Swift for macOs and plans to alter the UI to support iOS and maybe visionOS. The underlining architecture is written to work in all those platforms just the UI is not laid out to support those different form factors.
 
@@ -63,7 +63,4 @@ __Learn__
 
 
 
-
-<img src="/assets/vimeo.png" alt="Description" width="4%" />
-
-[Github](https://github.com/devpontsho/letmelearn)
+[<img src="/assets/vimeo.png" alt="Description" width="4%" />](https://vimeo.com/pontshomaseko) [<img src="/assets/linkedin.png" alt="Description" width="5%" />](www.linkedin.com/in/masekopontsho)
