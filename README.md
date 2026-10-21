@@ -10,7 +10,7 @@ I always wanted to learn Japanese since I was a kid but never gotten to do it. A
 
 ![alt text](/assets/07.png)
 
-### $\color{#60c451}{\text{Features}}$
+## $\color{#60c451}{\text{Features}}$
 
 __Mastery Levels__
 
